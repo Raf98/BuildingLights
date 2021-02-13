@@ -1,7 +1,7 @@
 import react, { useEffect, useState } from 'react';
 import Style from './InteractiveBuildingStyle';
-import SunsetApi from "../services/api";
-import Loading from './Loading';
+import SunsetApi from "../../services/api";
+import Loading from '../Loading/Loading';
 
 
 const InteractiveBuilding = () => {

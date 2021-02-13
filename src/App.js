@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import building from '../src/assets/building.svg';
-import InteractiveBuilding from '../src/components/InteractiveBuilding.jsx';
+import InteractiveBuilding from '../src/components/InteractiveBuilding/InteractiveBuilding';
 
 function App() {
   return (

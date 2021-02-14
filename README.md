@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Building Lights
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Esse projeto foi criado com o [Create React App](https://github.com/facebook/create-react-app).
 
 Para rodar o `BuildingLights` em sua máquina, basta baixá-lo por
 
@@ -16,7 +14,7 @@ ou
 
 ### `npm start`
 
-Por fim, abra o navegador no endereço [http://localhost:3000](http://localhost:3000) para testar o app em seu navegador.
+Por fim, abra o navegador no endereço [http://localhost:3000](http://localhost:3000) para testar o app.
 
 
 

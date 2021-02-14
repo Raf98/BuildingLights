@@ -1,4 +1,4 @@
-# Building Lights
+# BuildingLights
 
 Esse projeto foi criado com o [Create React App](https://github.com/facebook/create-react-app).
 

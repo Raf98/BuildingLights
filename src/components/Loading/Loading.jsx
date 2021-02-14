@@ -6,7 +6,10 @@ export default function Loading() {
     <Style>
       <main>
         Loading
-    </main>
+        <div id="dot1">.</div>
+        <div id="dot2">.</div>
+        <div id="dot3" >.</div>
+      </main>
     </Style>
   );
 }
